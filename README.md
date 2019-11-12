@@ -1,0 +1,1 @@
+# Application-of-the-Q-Learning-reinforced-learning-algorithm-to-the-Black-Jack-game
