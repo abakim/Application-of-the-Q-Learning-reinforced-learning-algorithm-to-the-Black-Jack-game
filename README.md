@@ -13,6 +13,9 @@ En pruebas se aprecia que luego de un tiempo considerable de entrenamiento, el a
 Luego de realizar este proyecto podemos considerar los resultados del experimento como positivos, logrando una implementación y un funcionamiento correctos del algoritmo, pudiendo ser aplicado a videojuegos o programas de otro ámbito.
 Como limitación observamos que es necesario realizar un extenso entrenamiento con fin de obtener un aprendizaje óptimo a través de los elementos de la matriz, con lo cual conlleva mucho tiempo de cómputo almacenar la información en la misma debido a su gran tamaño. La recomendación es adaptar este algoritmo a redes neuronales para poder almacenar la información obtenida dentro de los pesos, conllevando así menos procesamiento de cómputo y logrando reducir el tiempo de entrenamiento.
 
+### Autores
+* Emiliano E. Kalafatic
+* Jerónimo Sola
 
 ## Licencia
 <pre>
