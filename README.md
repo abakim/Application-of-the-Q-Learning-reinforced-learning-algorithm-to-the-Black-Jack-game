@@ -1,4 +1,6 @@
-# Application of the Q-Learning reinforced learning algorithm to the Black-Jack game
+# Q-Learning reinforced learning algorithm with Black-Jack game
+Application of the Q-Learning reinforced learning algorithm to the Black-Jack game developed in Matlab, obtaining the double of money than an azar person.
+
 ## Q-Learning Algorithm
 <img alt="Licencia Creative Commons" style="border-width:0" src="https://i.ibb.co/3yk10Ht/image.png" />
 
